@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALP II - Atividade n. 01.exe
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALP II - Atividade n. 01.deps.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALP II - Atividade n. 01.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALP II - Atividade n. 01.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALP II - Atividade n. 01.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\refint\ALP II - Atividade n. 01.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALP II - Atividade n. 01.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ref\ALP II - Atividade n. 01.dll

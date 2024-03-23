@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.exe
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.deps.json
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.runtimeconfig.json
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.pdb
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\refint\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.pdb
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ALPII-Vetores\ALPII-Vetores\obj\Debug\net8.0\ref\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.exe
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.deps.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\bin\Debug\net8.0\ALPII-Vetores.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\refint\ALPII-Vetores.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ALPII-Vetores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 03. Atividade da aula do dia 21-08-2023\ALPII-Vetores\obj\Debug\net8.0\ref\ALPII-Vetores.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ALP II - Atividade n. 01/1.0.0": {
+        "runtime": {
+          "ALP II - Atividade n. 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ALP II - Atividade n. 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
